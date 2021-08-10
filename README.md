@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murolusikka
-- 👀 I’m interested in gaming and modern web apps.
-- 🌱 I’m currently learning coding in Unity and MERN stack.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in gaming and modern web apps
+- 🌱 I’m currently learning coding in Unity and MERN stack
+- 💞️ I’m looking to collaborate on project-based learning
 - 📫 How to reach me ...
 
 <!---
